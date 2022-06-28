@@ -13,7 +13,7 @@ permalink: /
 
 ### آخرین نوشته‌ها:
 
-[[neveshtan]]
+[[neveshtan|اولین پست]]
 
 <style>
   .wrapper {
