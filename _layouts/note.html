@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article>
-  <div dir="auto">
+  <div dir="rtl">
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
@@ -11,7 +11,7 @@ layout: default
     </time>
   </div>
 
-  <div id="notes-entry-container" dir="auto">
+  <div id="notes-entry-container" dir="rtl">
     <content>
       {{ content }}
     </content>
