@@ -86,6 +86,7 @@ body {
   color: $color-text;
   font-size: 1.1rem;
   max-width: 40.5em;
+  text-align-last: justify;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
