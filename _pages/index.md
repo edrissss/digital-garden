@@ -15,7 +15,7 @@ permalink: /
 ### آخرین نوشته‌ها:
 (هنوز نوشته‌ی عمومی منتشر نشده.)
 
-![](pointless.jpg)
+![](assets/pointless.jpg)
 
 <!--
 <style>
