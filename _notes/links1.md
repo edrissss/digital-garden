@@ -4,5 +4,5 @@ title: لینک‌های سری یک
 
 اینجا یه مقدمه راجع به لینک‌ها و بعد:
 
-Tiago Forte در زمینه‌ی یادداشت‌برداری و به قول خودش Building a second brain خیلی توی سال‌های اخیر صحبت کرده. این ویدیوش برای من جذاب بود.
+Tiago Forte در زمینه‌ی یادداشت‌برداری و به قول خودش Building a second brain خیلی توی سال‌های اخیر صحبت کرده. مرور این ویدیو شاید مفید باشه.
 [Beginner's Guide: The First 30 Days Using a Notes App | Pick Your Notes App](https://www.youtube.com/watch?v=tOS53fSDqVw)
